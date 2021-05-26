@@ -27,6 +27,7 @@ To use CryptoFam, you will need to go to the main landing page (listed above), a
 The following resourses were used in the creation of this project:
 
 APIs
+- https://docs.microsoft.com/en-us/bing/search-apis/bing-web-search/
 - https://www.coingecko.com/en/api
 
 ### Other websites
